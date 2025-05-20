@@ -1,28 +1,28 @@
 # OpenCart Manual Testing Project
 
-## Overview
-This repository contains my manual software testing artifacts for the OpenCart e-commerce platform. The goal of this project is to demonstrate my knowledge and practical skills in software quality assurance, manual testing techniques, and Agile methodologies using Jira.
+## 📌 Project Overview
+This repository contains manual software testing documentation for the OpenCart e-commerce platform. The objective of this project is to showcase my practical understanding of Software Quality Assurance (SQA), manual testing techniques, and Agile methodology using Jira.
 
-## Contents
-- **Test Plan**: Detailed scope, objectives, and testing strategy.
-- **Test Scenarios**: Comprehensive test scenarios covering key functionalities.
-- **Test Cases**: In-progress detailed test cases with step-by-step instructions.
-- **Functional Requirements Specification (FRS)**: Documents outlining OpenCart system requirements.
+## 📂 Repository Structure
+- **Test Plan** – Outlines the scope, objectives, strategy, and resources for testing.  
+- **Test Scenarios** – High-level scenarios representing different user journeys and system interactions.  
+- **Test Cases** – Step-by-step test cases designed to validate functionality (currently in progress).  
+- **Functional Requirements Specification (FRS)** – Documents outlining the business and functional requirements of OpenCart.
 
-## Tools and Skills
+## 🛠️ Tools & Skills Demonstrated
 - Manual Software Testing  
-- Agile Methodology  
-- Jira for test management  
-- Test case design and execution  
-- Bug reporting and tracking  
+- Agile/Scrum Methodology  
+- Test Case Design & Execution  
+- Jira for Test Management  
+- Bug Reporting & Tracking  
 
-## Timeline
-Project initiated and updated in May 2025 as part of my Software Quality Assurance internship and learning program.
+## 📅 Timeline
+This project was initiated in May 2025 as part of my self-directed learning through a professional course on Software Quality Assurance and is currently in progress.
 
-## About Me
-I am Muhammad Usman, a passionate SQA intern working to build a strong foundation in software quality assurance. This project showcases my commitment to delivering high-quality software through rigorous testing and attention to detail.
+## 👤 About Me
+My name is **Muhammad Usman**, an aspiring Software Quality Assurance professional with a passion for delivering high-quality software through thorough and structured testing. This project reflects my dedication to building a strong foundation in SQA practices.
 
 ---
 
-Feel free to explore the documents and reach out for collaboration or queries!
-
+If you have any questions or would like to collaborate, feel free to connect.  
+Thank you for visiting this repository!
