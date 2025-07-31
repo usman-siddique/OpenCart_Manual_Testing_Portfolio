@@ -22,7 +22,7 @@ This repository contains detailed documentation of manual testing for the OpenCa
 
 ## 📅 Project Timeline
 - **Start Date:** May 2025  
-- **Status:** In Progress (test cases and RTM in development)
+- **Status:** Completed
 
 ## 👤 About Me
 I’m **Muhammad Usman**, an aspiring Software Quality Assurance Engineer transitioning from a background in digital marketing and e-commerce. I’ve built this project as part of my professional portfolio to showcase my understanding of core QA processes and methodologies.
